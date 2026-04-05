@@ -118,8 +118,7 @@ ________________________________________
 •	Advanced KPI tracking
 •	Integration with cloud services
 ________________________________________
-👨‍💻 Author
-Your Name :- Monis Shaikh 
+👨‍💻 Author Name :- Monis Shaikh 
 ________________________________________
 ⭐ Project Highlights
 ✔ Clean and interactive UI
